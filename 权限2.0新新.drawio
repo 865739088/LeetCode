@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="第 1 页" id="FMspQHICyowtunxH5GfW">
-    <mxGraphModel dx="3447" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="3151" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4749,6 +4749,202 @@
         </mxCell>
         <mxCell id="cD0uZHv-fuMTMiBQa9aN-1083" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: &quot;897896311347479041&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;tenantId&quot;: &quot;-1&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;createTime&quot;: &quot;2022-04-19 10:18:00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;updateTime&quot;: &quot;2022-04-19 10:18:00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;version&quot;: 0,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;guid&quot;: &quot;897896311347479041&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;code&quot;: &quot;OrgManager&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;name&quot;: &quot;组织模型管理员&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;description&quot;: &quot;&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;system&quot;: false,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;admin&quot;: true,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;type&quot;: &quot;APP&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;appId&quot;: &quot;organization&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;orgId&quot;: &quot;-1&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;sortNumber&quot;: 1,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;enabled&quot;: true,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;display&quot;: true,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;: &quot;NO&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;creatorId&quot;: &quot;-1&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;displayCondition&quot;:&quot;NORMAL&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="480" width="391" x="609" y="5220" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="系统定义" vertex="1">
+          <mxGeometry height="54" width="124" x="1708" y="8564" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="UDC注册接口" vertex="1">
+          <mxGeometry height="54" width="154" x="1693" y="8764" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="业务对象集合（应用1/应用2/各模块）" vertex="1">
+          <mxGeometry height="78" width="260" x="1640" y="8964" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="权限项池（页面/按钮/接口等资源管控）" vertex="1">
+          <mxGeometry height="78" width="260" x="1651" y="9152" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="平台系统管理员" vertex="1">
+          <mxGeometry height="54" width="172" x="2526" y="8120" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="租户管理员（集团级，角色生效组织：全租户）" vertex="1">
+          <mxGeometry height="78" width="260" x="2482" y="8248" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="根机构管理员（角色生效组织：集团根节点）" vertex="1">
+          <mxGeometry height="78" width="260" x="2353" y="8400" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="子机构管理员（角色生效组织：子公司/事业部）" vertex="1">
+          <mxGeometry height="78" width="260" x="2353" y="8552" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="子模块管理员（角色生效组织：对应业务模块）" vertex="1">
+          <mxGeometry height="78" width="260" x="2409" y="8752" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="角色分层管理-全局角色（集团统管）-机构级角色（分级管控）" vertex="1">
+          <mxGeometry height="102" width="260" x="2062" y="8952" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="角色生效范围锁定（仅在授权组织内生效）" vertex="1">
+          <mxGeometry height="78" width="260" x="2146" y="9152" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="数据权限体系-主控字段（机构/部门含下级）-数据规则（全局共享/管控共享/私有）" vertex="1">
+          <mxGeometry height="126" width="260" x="2719" y="8728" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="授权对象（用户/用户组/复合对象）" vertex="1">
+          <mxGeometry height="78" width="260" x="2685" y="9152" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="权限生效-功能：可操作的资源-数据：可访问的范围" vertex="1">
+          <mxGeometry height="78" width="260" x="2845" y="9304" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="三级数科公司/上级运维团队" vertex="1">
+          <mxGeometry height="78" width="260" x="2995" y="8964" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="跨机构运维权限（仅管控指定组织，无集团数据访问权）" vertex="1">
+          <mxGeometry height="78" width="260" x="2995" y="9152" as="geometry" />
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-17" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-2" value="1. 注册统一权限元数据">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-18" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-3" value="绑定应用树+业务对象">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-19" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.48;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-4" value="配置权限项">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1770" y="9103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-20" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-6" value="2. 创建租户">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-21" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-7" value="3. 授权根机构管理员">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2483" y="8363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-22" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-8" value="4. 授权子机构管理员">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-23" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-9" value="5. 授权子模块管理员">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2539" y="8679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-24" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-6" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.06;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-10" value="6. 定义角色（功能权限载体）">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1967" y="8363" />
+              <mxPoint x="1967" y="8903" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-25" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-7" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.34;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-10" value="6. 定义角色（功能权限载体）">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2110" y="8515" />
+              <mxPoint x="2110" y="8903" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-26" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=0.66;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-10" value="6. 定义角色（功能权限载体）">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2274" y="8679" />
+              <mxPoint x="2274" y="8903" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-27" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.13;rounded=0;" target="eged9iJj2BZ9T6v6-imc-10" value="6. 定义角色（功能权限载体）">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2539" y="8903" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-28" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-10" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.72;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-4" value="7. 绑定权限项">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1908" y="9103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-29" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-10" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-11" value="8. 设定角色生效组织">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2276" y="9103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-30" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.24;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-12" value="9. 配置数据管控规则">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2731" y="8363" />
+              <mxPoint x="2731" y="8679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-31" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-7" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-12" value="9. 配置数据管控规则">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2849" y="8515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-32" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-8" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.76;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-12" value="9. 配置数据管控规则">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2970" y="8679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-33" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-10" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.32;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-13" value="10. 授予授权对象">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2709" y="9103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-34" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-12" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.56;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-13" value="11. 限定数据访问范围">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2849" y="9103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-35" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-13" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.18;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-14" value="12. 终端鉴权">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2815" y="9267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-36" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-15" value="13. 跨机构授权">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3125" y="8363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-37" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-15" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-16" value="14. 限定角色生效组织+数据范围">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eged9iJj2BZ9T6v6-imc-38" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-16" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.8;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3125" y="9267" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
