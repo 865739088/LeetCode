@@ -4766,7 +4766,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eged9iJj2BZ9T6v6-imc-82" connectable="0" parent="eged9iJj2BZ9T6v6-imc-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="范围：根节点" vertex="1">
+        <mxCell id="eged9iJj2BZ9T6v6-imc-82" connectable="0" parent="eged9iJj2BZ9T6v6-imc-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="范围：根机构" vertex="1">
           <mxGeometry relative="1" x="-0.5959" y="-3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -4787,7 +4787,7 @@
             <mxPoint x="12" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eged9iJj2BZ9T6v6-imc-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="数据权限体系&#xa;主控字段（机构含下级）&#xa;数据规则（全租户/根机构/指定机构）" vertex="1">
+        <mxCell id="eged9iJj2BZ9T6v6-imc-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="数据权限体系&#xa;主控字段（当前机构/含下级）&#xa;数据规则（全租户/根机构/指定机构）" vertex="1">
           <mxGeometry height="100" width="260" x="1768" y="767" as="geometry" />
         </mxCell>
         <mxCell id="eged9iJj2BZ9T6v6-imc-51" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-39" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-40" value="2. 创建租户">
