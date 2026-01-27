@@ -5014,6 +5014,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y9IhExWMnBtgmRz3-BoQ-4" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;用户中心&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="380" x="3290" y="5720" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9IhExWMnBtgmRz3-BoQ-5" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;应用中心&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="380" x="3698" y="5720" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9IhExWMnBtgmRz3-BoQ-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;用户中心&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="380" x="3325" y="3130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
