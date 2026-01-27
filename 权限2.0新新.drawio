@@ -4761,7 +4761,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eged9iJj2BZ9T6v6-imc-80" connectable="0" parent="eged9iJj2BZ9T6v6-imc-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="范围：全租户" vertex="1">
+        <mxCell id="eged9iJj2BZ9T6v6-imc-80" connectable="0" parent="eged9iJj2BZ9T6v6-imc-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="全局共享&lt;div&gt;集团创建，全员可用&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.4283" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -4777,12 +4777,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eged9iJj2BZ9T6v6-imc-82" connectable="0" parent="eged9iJj2BZ9T6v6-imc-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="范围：根机构" vertex="1">
-          <mxGeometry relative="1" x="-0.5959" y="-3" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eged9iJj2BZ9T6v6-imc-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="根机构管理员（角色生效组织：集团根节点）" vertex="1">
+        <mxCell id="eged9iJj2BZ9T6v6-imc-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="机构管理员（角色生效组织：指定机构层级）" vertex="1">
           <mxGeometry height="78" width="260" x="1339" y="550" as="geometry" />
         </mxCell>
         <mxCell id="eged9iJj2BZ9T6v6-imc-73" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eged9iJj2BZ9T6v6-imc-70">
@@ -4793,9 +4788,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eged9iJj2BZ9T6v6-imc-77" connectable="0" parent="eged9iJj2BZ9T6v6-imc-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="范围：指定结构" vertex="1">
-          <mxGeometry relative="1" x="-0.7191" y="1" as="geometry">
-            <mxPoint x="12" y="1" as="offset" />
+        <mxCell id="Y9IhExWMnBtgmRz3-BoQ-13" connectable="0" parent="eged9iJj2BZ9T6v6-imc-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="管控范围内共享&lt;div&gt;逐级下发&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.5122" y="-1" as="geometry">
+            <mxPoint x="-16" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eged9iJj2BZ9T6v6-imc-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="数据权限体系&#xa;主控字段（当前机构/含下级）&#xa;数据规则（全租户/根机构/指定机构）" vertex="1">
@@ -4806,7 +4801,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eged9iJj2BZ9T6v6-imc-52" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-40" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-41" value="3. 授权根机构管理员&#xa;（租户管理员授权的权限清单）">
+        <mxCell id="eged9iJj2BZ9T6v6-imc-52" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-40" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-41" value="3. 授权机构管理员&#xa;（租户管理员授权的权限清单）">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1509" y="513" />
