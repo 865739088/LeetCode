@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="第 1 页" id="FMspQHICyowtunxH5GfW">
-    <mxGraphModel dx="2578" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1350" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4806,14 +4806,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eged9iJj2BZ9T6v6-imc-52" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-40" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-41" value="3. 授权根机构管理员">
+        <mxCell id="eged9iJj2BZ9T6v6-imc-52" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-40" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-41" value="3. 授权根机构管理员&#xa;（租户管理员授权的权限清单）">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1509" y="513" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eged9iJj2BZ9T6v6-imc-53" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-41" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-42" value="4. 授权子机构管理员">
+        <mxCell id="eged9iJj2BZ9T6v6-imc-53" edge="1" parent="1" source="eged9iJj2BZ9T6v6-imc-41" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="eged9iJj2BZ9T6v6-imc-42" value="4. 授权子机构管理员&#xa;（根机构管理员授权的权限清单）">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
