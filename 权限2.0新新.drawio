@@ -735,7 +735,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-173" connectable="0" parent="uvnF7k4MoT7sIPI4D6Jf-172" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="授权记录本次授权角色的生效范围" vertex="1">
+        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-173" connectable="0" parent="uvnF7k4MoT7sIPI4D6Jf-172" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="本次授权角色的生效范围" vertex="1">
           <mxGeometry relative="1" x="0.5089" y="1" as="geometry">
             <mxPoint x="-6" y="-26" as="offset" />
           </mxGeometry>
@@ -1004,7 +1004,7 @@
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-233" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="uvnF7k4MoT7sIPI4D6Jf-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-234" connectable="0" parent="uvnF7k4MoT7sIPI4D6Jf-233" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="限定数据权限的作用范围" vertex="1">
+        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-234" connectable="0" parent="uvnF7k4MoT7sIPI4D6Jf-233" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="限定角色可查看的行数据范围&lt;div&gt;（根据授权对象所在组织）&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.6196" y="1" as="geometry">
             <mxPoint x="-16" y="-1" as="offset" />
           </mxGeometry>
