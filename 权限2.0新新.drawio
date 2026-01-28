@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="第 1 页" id="x9FN3ZxwxGNLzvOOE6Uz">
-    <mxGraphModel dx="2068" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1880" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4966,10 +4966,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1125" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1125" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.61;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2392" y="1966" />
+              <mxPoint x="2392" y="1970" />
               <mxPoint x="2392" y="2060" />
               <mxPoint x="3141" y="2060" />
             </Array>
@@ -5017,6 +5017,21 @@
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1133" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;用户中心&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="380" x="3135" y="2970" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
+          <mxGeometry height="275" width="290" x="2228" y="1335" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="封装报表数据&lt;div&gt;（业务对象、权限项）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2243" y="1415" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="注册报表数据" vertex="1">
+          <mxGeometry height="60" width="120" x="2363" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-4" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;bi&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="290" x="2110" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-5" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.919;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" target="uvnF7k4MoT7sIPI4D6Jf-1101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
