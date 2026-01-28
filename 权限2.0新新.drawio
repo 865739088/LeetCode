@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="第 1 页" id="x9FN3ZxwxGNLzvOOE6Uz">
-    <mxGraphModel dx="1088" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="627" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5059,7 +5059,7 @@
         <mxCell id="gc_PlaAjw5eS0WkTGYct-33" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;方案1：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;统一角色（功能权限+数据权限）&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="380" x="950" y="395" as="geometry" />
         </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="直接记录管理员角色和管理范围关系" vertex="1">
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="直接记录管理员角色和管理范围关系&#xa;xx管理员-&gt;xx机构" vertex="1">
           <mxGeometry height="67" width="150" x="1527" y="610" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-38" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="单独记录管理员角色和&#xa;权限项之间的关系&#xa;" vertex="1">
