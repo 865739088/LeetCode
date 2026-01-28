@@ -1,18 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="第 1 页" id="x9FN3ZxwxGNLzvOOE6Uz">
-    <mxGraphModel dx="627" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1293" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-26" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;labelBorderColor=none;labelBackgroundColor=default;" value="" vertex="1">
-          <mxGeometry height="1092.5" width="790" x="980" y="-342.5" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;labelBackgroundColor=default;" value="" vertex="1">
-          <mxGeometry height="260" width="260" x="1470" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-32" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;labelBackgroundColor=default;" value="" vertex="1">
-          <mxGeometry height="265" width="290" x="995" y="445" as="geometry" />
-        </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="1670" width="1232" x="3506" y="5270" as="geometry" />
         </mxCell>
@@ -159,11 +150,8 @@
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据权限&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="171" x="4120" y="425" as="geometry" />
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-36" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uvnF7k4MoT7sIPI4D6Jf-1077" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-38" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="权限项&#xa;（最小权限管控单元）" vertex="1">
-          <mxGeometry height="54" width="108" x="660" y="375" as="geometry" />
+          <mxGeometry height="54" width="108" x="734" y="377" as="geometry" />
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-39" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;权限主体层&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="171" x="400" y="40" as="geometry" />
@@ -1053,7 +1041,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-244" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="角色生效组织" vertex="1">
+        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-244" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="角色作用范围" vertex="1">
           <mxGeometry height="54" width="110" x="289.94000000000005" y="100" as="geometry" />
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="path作用：&lt;div&gt;渲染权限项层级&lt;/div&gt;" vertex="1">
@@ -4758,89 +4746,8 @@
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1076" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="可沿用的表" vertex="1">
           <mxGeometry height="60" width="120" x="2043" y="5420" as="geometry" />
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1077" parent="1" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" value="资源&#xa;（业务人员不可见）" vertex="1">
-          <mxGeometry height="54" width="120" x="820" y="375" as="geometry" />
-        </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1078" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: &quot;897896311347479041&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;tenantId&quot;: &quot;-1&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;createTime&quot;: &quot;2022-04-19 10:18:00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;updateTime&quot;: &quot;2022-04-19 10:18:00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;version&quot;: 0,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;guid&quot;: &quot;897896311347479041&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;code&quot;: &quot;OrgManager&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;name&quot;: &quot;组织模型管理员&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;description&quot;: &quot;&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;system&quot;: false,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;admin&quot;: true,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;type&quot;: &quot;APP&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;appId&quot;: &quot;organization&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;orgId&quot;: &quot;-1&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;sortNumber&quot;: 1,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;enabled&quot;: true,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;display&quot;: true,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;: &quot;NO&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;creatorId&quot;: &quot;-1&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;displayCondition&quot;:&quot;NORMAL&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="480" width="391" x="419" y="5060" as="geometry" />
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1079" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="平台系统管理员&#xa;（system-admin）" vertex="1">
-          <mxGeometry height="54" width="172" x="1325" y="-323" as="geometry" />
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1080" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1082" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uvnF7k4MoT7sIPI4D6Jf-1095">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1671" y="-156" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1081" connectable="0" parent="uvnF7k4MoT7sIPI4D6Jf-1080" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="全局共享&lt;div&gt;集团创建，全员可用&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.4283" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1082" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="租户管理员（集团级，角色生效组织：全租户）" vertex="1">
-          <mxGeometry height="78" width="260" x="1281" y="-195" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-8" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1084" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gc_PlaAjw5eS0WkTGYct-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-9" connectable="0" parent="gc_PlaAjw5eS0WkTGYct-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="管理员可分配的权限" vertex="1">
-          <mxGeometry relative="1" x="-0.0748" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1084" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="后台管理员（角色生效组织：指定机构层级）" vertex="1">
-          <mxGeometry height="78" width="260" x="1112" y="-43" as="geometry" />
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1085" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1084" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="uvnF7k4MoT7sIPI4D6Jf-1095">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1372" y="-1" />
-              <mxPoint x="1410" y="-1" />
-              <mxPoint x="1410" y="130" />
-            </Array>
-            <mxPoint x="1372" y="152.0769230769231" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1086" connectable="0" parent="uvnF7k4MoT7sIPI4D6Jf-1085" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="管控范围内共享&lt;div&gt;逐级下发&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.5122" y="-1" as="geometry">
-            <mxPoint x="-9" y="-50" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1087" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="数据权限体系&#xa;主控字段（当前机构/含下级）&#xa;数据规则（全租户/指定机构）" vertex="1">
-          <mxGeometry height="100" width="260" x="1004" y="590" as="geometry" />
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1088" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1079" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="uvnF7k4MoT7sIPI4D6Jf-1082" value="2. 创建租户">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1089" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1082" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="uvnF7k4MoT7sIPI4D6Jf-1084" value="3. 授权机构管理员&#xa;（租户管理员授权的权限清单）">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1282" y="-80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-52" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1095" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gc_PlaAjw5eS0WkTGYct-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1570" y="200" />
-              <mxPoint x="1140" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-54" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1095" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gc_PlaAjw5eS0WkTGYct-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1570" y="200" />
-              <mxPoint x="1626" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1095" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="可管理范围" vertex="1">
-          <mxGeometry height="78" width="168" x="1486" y="96" as="geometry" />
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1098" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;应用（udc、bi等）&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="290" x="1889.5" y="1335" as="geometry" />
@@ -4999,74 +4906,81 @@
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1133" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;用户中心&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="380" x="2942.5" y="3000" as="geometry" />
         </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-51" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gc_PlaAjw5eS0WkTGYct-33">
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-62" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gc_PlaAjw5eS0WkTGYct-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-65" connectable="0" parent="gc_PlaAjw5eS0WkTGYct-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="指定权限和管理范围" vertex="1">
+          <mxGeometry relative="1" x="-0.2014" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-58" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="平台管理员&#xa;（预置system-admin）" vertex="1">
+          <mxGeometry height="78" width="260" x="1250" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-59" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="系统管理员&#xa;（系统配置）" vertex="1">
+          <mxGeometry height="70" width="200" x="1280" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-67" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uvnF7k4MoT7sIPI4D6Jf-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-60" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="可分配的权限" vertex="1">
+          <mxGeometry height="78" width="168" x="1120" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-73" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gc_PlaAjw5eS0WkTGYct-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1530" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-61" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="可分配的组织范围" vertex="1">
+          <mxGeometry height="75" width="139" x="1450" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-63" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="审计管理员" vertex="1">
+          <mxGeometry height="70" width="200" x="1530" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-70" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="gc_PlaAjw5eS0WkTGYct-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1242" y="200" />
-              <mxPoint x="1140" y="200" />
+              <mxPoint x="1380" y="310" />
+              <mxPoint x="1174" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-53" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gc_PlaAjw5eS0WkTGYct-43">
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-77" connectable="0" parent="gc_PlaAjw5eS0WkTGYct-70" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="配置" vertex="1">
+          <mxGeometry relative="1" x="-0.0435" y="4" as="geometry">
+            <mxPoint x="3" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-71" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="gc_PlaAjw5eS0WkTGYct-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1242" y="200" />
-              <mxPoint x="1626" y="200" />
+              <mxPoint x="1380" y="310" />
+              <mxPoint x="1520" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="管理权限项" vertex="1">
-          <mxGeometry height="78" width="168" x="1158" y="96" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-13" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gc_PlaAjw5eS0WkTGYct-12" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="业务对象" vertex="1">
-          <mxGeometry height="54" width="108" x="1327.25" y="377" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-29" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gc_PlaAjw5eS0WkTGYct-28" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-55" connectable="0" parent="gc_PlaAjw5eS0WkTGYct-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="分配权限" vertex="1">
-          <mxGeometry relative="1" x="0.0499" y="1" as="geometry">
-            <mxPoint x="-15" y="-1" as="offset" />
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-78" connectable="0" parent="gc_PlaAjw5eS0WkTGYct-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="配置" vertex="1">
+          <mxGeometry relative="1" x="-0.1459" y="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-56" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gc_PlaAjw5eS0WkTGYct-38">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-75" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="gc_PlaAjw5eS0WkTGYct-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="383" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="权限项&#xa;（最小权限管控单元）" vertex="1">
-          <mxGeometry height="54" width="108" x="1327.25" y="475" as="geometry" />
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-79" connectable="0" parent="gc_PlaAjw5eS0WkTGYct-75" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="审批" vertex="1">
+          <mxGeometry relative="1" x="-0.2377" y="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-42" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gc_PlaAjw5eS0WkTGYct-16" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-64" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="权限管理员&#xa;（权限分配、配置）" vertex="1">
+          <mxGeometry height="70" width="200" x="1020" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="应用树" vertex="1">
-          <mxGeometry height="54" width="108" x="1328.5" y="208" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-18" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gc_PlaAjw5eS0WkTGYct-10" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="业务对象树" vertex="1">
-          <mxGeometry height="54" width="105.5" x="1328.5" y="291" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="功能权限体系" vertex="1">
-          <mxGeometry height="57.5" width="130" x="1060" y="473.25" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-30" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1087" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" target="uvnF7k4MoT7sIPI4D6Jf-232">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-33" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;方案1：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;统一角色（功能权限+数据权限）&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="380" x="950" y="395" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="直接记录管理员角色和管理范围关系&#xa;xx管理员-&gt;xx机构" vertex="1">
-          <mxGeometry height="67" width="150" x="1527" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-38" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="单独记录管理员角色和&#xa;权限项之间的关系&#xa;" vertex="1">
-          <mxGeometry height="67" width="150" x="1530" y="468.5" as="geometry" />
-        </mxCell>
-        <mxCell id="gc_PlaAjw5eS0WkTGYct-43" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;方案2：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;单独管理员角色（单独一套）&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="380" x="1435.25" y="400" as="geometry" />
+        <mxCell id="gc_PlaAjw5eS0WkTGYct-72" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="权限管理员&#xa;（权限分配、配置）" vertex="1">
+          <mxGeometry height="70" width="200" x="1420" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
