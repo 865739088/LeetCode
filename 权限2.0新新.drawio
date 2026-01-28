@@ -5051,7 +5051,7 @@
           <mxGeometry height="54" width="105.5" x="1328.5" y="291" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="功能权限体系" vertex="1">
-          <mxGeometry height="54" width="108" x="1086" y="475" as="geometry" />
+          <mxGeometry height="57.5" width="130" x="1060" y="473.25" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-30" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-1087" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" target="uvnF7k4MoT7sIPI4D6Jf-232">
           <mxGeometry relative="1" as="geometry" />
