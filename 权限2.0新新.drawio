@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="x9FN3ZxwxGNLzvOOE6Uz">
-    <mxGraphModel dx="1591" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="810" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1041,7 +1041,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-244" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="角色作用范围" vertex="1">
+        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-244" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="角色生效范围" vertex="1">
           <mxGeometry height="54" width="110" x="289.94000000000005" y="100" as="geometry" />
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="path作用：&lt;div&gt;渲染权限项层级&lt;/div&gt;" vertex="1">
