@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="x9FN3ZxwxGNLzvOOE6Uz">
-    <mxGraphModel dx="1773" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="2836" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5025,33 +5025,6 @@
         </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-206" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="非管理员角色" vertex="1">
           <mxGeometry height="60" width="120" x="2584.5" y="2240" as="geometry" />
-        </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-214" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
-          <mxGeometry height="367.5" width="340" x="4534.5" y="2751.25" as="geometry" />
-        </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-215" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sEOk5rUrlD9LX1nitkul-217">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-216" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="人员" vertex="1">
-          <mxGeometry height="60" width="120" x="4544.5" y="2818.75" as="geometry" />
-        </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-217" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="授权对象" vertex="1">
-          <mxGeometry height="60" width="120" x="4720.5" y="2871.25" as="geometry" />
-        </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-218" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;组织中心&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="290" x="4450" y="2751.25" as="geometry" />
-        </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-219" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sEOk5rUrlD9LX1nitkul-217">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-220" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="组织" vertex="1">
-          <mxGeometry height="60" width="120" x="4544.5" y="2908.75" as="geometry" />
-        </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-221" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sEOk5rUrlD9LX1nitkul-217">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-222" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="组织角色" vertex="1">
-          <mxGeometry height="60" width="120" x="4544.5" y="2998.75" as="geometry" />
         </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-234" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sEOk5rUrlD9LX1nitkul-78">
           <mxGeometry relative="1" as="geometry">
