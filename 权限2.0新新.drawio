@@ -5507,7 +5507,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="acgCKhsbxM681qom-VeY-315" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;现有数据结构兼容2.0&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="380" x="239.94" y="2307.5" as="geometry" />
+          <mxGeometry height="40" width="380" x="82.94" y="2292.5" as="geometry" />
         </mxCell>
         <mxCell id="acgCKhsbxM681qom-VeY-318" edge="1" parent="1" source="acgCKhsbxM681qom-VeY-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sEOk5rUrlD9LX1nitkul-29">
           <mxGeometry relative="1" as="geometry" />
