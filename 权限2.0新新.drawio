@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="x9FN3ZxwxGNLzvOOE6Uz">
-    <mxGraphModel dx="4051" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1668" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry height="660" width="938" x="3380" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;labelBorderColor=none;labelBackgroundColor=default;fontColor=#000000;" value="" vertex="1">
-          <mxGeometry height="670" width="890" x="90" y="80" as="geometry" />
+          <mxGeometry height="670" width="1670" x="90" y="80" as="geometry" />
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-12" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uvnF7k4MoT7sIPI4D6Jf-80">
           <mxGeometry relative="1" as="geometry">
@@ -4440,34 +4440,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-58" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="平台管理员&#xa;（预置system-admin）" vertex="1">
-          <mxGeometry height="78" width="260" x="1250" y="50" as="geometry" />
+          <mxGeometry height="78" width="260" x="1262" y="114" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-59" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="系统管理员&#xa;（系统配置）" vertex="1">
-          <mxGeometry height="70" width="200" x="1280" y="200" as="geometry" />
+          <mxGeometry height="70" width="200" x="1292" y="264" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-67" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uvnF7k4MoT7sIPI4D6Jf-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-60" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="可分配的权限" vertex="1">
-          <mxGeometry height="78" width="168" x="1120" y="363" as="geometry" />
+          <mxGeometry height="78" width="168" x="1132" y="427" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-73" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gc_PlaAjw5eS0WkTGYct-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1530" y="520" as="targetPoint" />
+            <mxPoint x="1542" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-61" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="可分配的组织范围" vertex="1">
-          <mxGeometry height="75" width="139" x="1450" y="363" as="geometry" />
+          <mxGeometry height="75" width="139" x="1462" y="427" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-63" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="审计管理员" vertex="1">
-          <mxGeometry height="70" width="200" x="1530" y="200" as="geometry" />
+          <mxGeometry height="70" width="200" x="1542" y="264" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-70" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="gc_PlaAjw5eS0WkTGYct-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1380" y="310" />
-              <mxPoint x="1174" y="310" />
+              <mxPoint x="1392" y="374" />
+              <mxPoint x="1186" y="374" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4479,8 +4479,8 @@
         <mxCell id="gc_PlaAjw5eS0WkTGYct-71" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="gc_PlaAjw5eS0WkTGYct-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1380" y="310" />
-              <mxPoint x="1520" y="310" />
+              <mxPoint x="1392" y="374" />
+              <mxPoint x="1532" y="374" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4492,7 +4492,7 @@
         <mxCell id="gc_PlaAjw5eS0WkTGYct-75" edge="1" parent="1" source="gc_PlaAjw5eS0WkTGYct-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="gc_PlaAjw5eS0WkTGYct-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1100" y="383" />
+              <mxPoint x="1112" y="447" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4502,10 +4502,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-64" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="权限管理员&#xa;（权限分配、配置）" vertex="1">
-          <mxGeometry height="70" width="200" x="1020" y="200" as="geometry" />
+          <mxGeometry height="70" width="200" x="1032" y="264" as="geometry" />
         </mxCell>
         <mxCell id="gc_PlaAjw5eS0WkTGYct-72" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="权限管理员&#xa;（权限分配、配置）" vertex="1">
-          <mxGeometry height="70" width="200" x="1420" y="520" as="geometry" />
+          <mxGeometry height="70" width="200" x="1432" y="584" as="geometry" />
         </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-51" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sEOk5rUrlD9LX1nitkul-50">
           <mxGeometry relative="1" as="geometry" />
