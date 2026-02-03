@@ -2898,12 +2898,11 @@
             <mxRectangle height="46" width="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-725" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-726" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uvnF7k4MoT7sIPI4D6Jf-933">
+        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-725" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-889" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="uvnF7k4MoT7sIPI4D6Jf-933">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5003.5" y="7397" />
-              <mxPoint x="4266.5" y="7397" />
-              <mxPoint x="4266.5" y="7772" />
+              <mxPoint x="4190" y="6464" />
+              <mxPoint x="4190" y="7772" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3309,6 +3308,14 @@
             <mxPoint x="-64" y="42" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="acgCKhsbxM681qom-VeY-319" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-816" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uvnF7k4MoT7sIPI4D6Jf-933">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4190" y="7025" />
+              <mxPoint x="4190" y="7772" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-816" parent="1" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;fillColor=#f8cecc;strokeColor=#b85450;" value="ctp_permission_item_relation" vertex="1">
           <mxGeometry height="395" width="283" x="4357" y="6827" as="geometry" />
         </mxCell>
@@ -3676,14 +3683,14 @@
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-897" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-899" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uvnF7k4MoT7sIPI4D6Jf-933">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4266.5" y="7397" />
-              <mxPoint x="4266.5" y="7772" />
+              <mxPoint x="4190" y="7397" />
+              <mxPoint x="4190" y="7772" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-898" connectable="0" parent="uvnF7k4MoT7sIPI4D6Jf-897" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过被授权的角色 + 角色下操作对象的资源&lt;div&gt;生成被授权的资源&lt;/div&gt;&lt;div&gt;entityResourceId：roleId = N：1&lt;/div&gt;" vertex="1">
+        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-898" connectable="0" parent="uvnF7k4MoT7sIPI4D6Jf-897" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过被授权的角色 + 角色下业务对象的资源&lt;div&gt;生成被授权的资源&lt;/div&gt;&lt;div&gt;entityResourceId：roleId = N：1&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.7769" as="geometry">
-            <mxPoint x="328" y="-182" as="offset" />
+            <mxPoint x="183" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-899" parent="1" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" value="ctp_entity_role" vertex="1">
@@ -4149,10 +4156,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1001" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="业务对象上的主控字段&lt;div&gt;+&lt;/div&gt;&lt;div&gt;业务对象上被授权的数据规则&lt;/div&gt;&lt;div&gt;行数据过滤&lt;/div&gt;" vertex="1">
-          <mxGeometry height="91.25" width="210" x="3831.5" y="7547" as="geometry" />
+          <mxGeometry height="91.25" width="210" x="3786.5" y="7540" as="geometry" />
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1002" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-700" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.848;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" target="uvnF7k4MoT7sIPI4D6Jf-789">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1002" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-700" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uvnF7k4MoT7sIPI4D6Jf-789">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4090" y="6337" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1003" connectable="0" parent="uvnF7k4MoT7sIPI4D6Jf-1002" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="应用下绑定业务对象集合" vertex="1">
           <mxGeometry relative="1" x="-0.6039" y="2" as="geometry">
@@ -5503,6 +5514,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2181" y="3181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="acgCKhsbxM681qom-VeY-320" edge="1" parent="1" source="uvnF7k4MoT7sIPI4D6Jf-841" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uvnF7k4MoT7sIPI4D6Jf-1001">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4290" y="7151" />
+              <mxPoint x="4290" y="7586" />
             </Array>
           </mxGeometry>
         </mxCell>
