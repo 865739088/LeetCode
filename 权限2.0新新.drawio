@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="x9FN3ZxwxGNLzvOOE6Uz">
-    <mxGraphModel dx="1891" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1350" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -479,7 +479,7 @@
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="资源信息（编码、名称等）" vertex="1">
           <mxGeometry height="60" width="120" x="439.94000000000005" y="1550" as="geometry" />
         </mxCell>
-        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="资源类型：接口、按钮、页面等" vertex="1">
+        <mxCell id="uvnF7k4MoT7sIPI4D6Jf-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="资源类型：接口、按钮、页面、数据等" vertex="1">
           <mxGeometry height="60" width="120" x="439.94000000000005" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-114" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;权限元数据注册参数格式&lt;/span&gt;" vertex="1">
