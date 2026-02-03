@@ -4148,7 +4148,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1004" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;存储层（权限2.0）&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="380" x="1900" y="6987" as="geometry" />
+          <mxGeometry height="40" width="380" x="1924.5" y="6120" as="geometry" />
         </mxCell>
         <mxCell id="uvnF7k4MoT7sIPI4D6Jf-1005" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;权限元数据现状&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="380" x="668" y="4880" as="geometry" />
