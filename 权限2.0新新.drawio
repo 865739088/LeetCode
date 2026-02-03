@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="x9FN3ZxwxGNLzvOOE6Uz">
-    <mxGraphModel dx="7090" dy="3900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1668" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4757,8 +4757,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="acgCKhsbxM681qom-VeY-2" connectable="0" parent="sEOk5rUrlD9LX1nitkul-86" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="命中" vertex="1">
+          <mxGeometry relative="1" x="-0.8987" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-88" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sEOk5rUrlD9LX1nitkul-87">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acgCKhsbxM681qom-VeY-1" connectable="0" parent="sEOk5rUrlD9LX1nitkul-88" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="未命中" vertex="1">
+          <mxGeometry relative="1" x="-0.1556" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="授权对象：授权资源&lt;div&gt;（cache）&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="230" x="3360" y="2500" as="geometry" />
@@ -4927,6 +4937,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="acgCKhsbxM681qom-VeY-3" connectable="0" parent="sEOk5rUrlD9LX1nitkul-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="操作" vertex="1">
+          <mxGeometry relative="1" x="0.1068" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="执行业务数据操作" vertex="1">
           <mxGeometry height="60" width="120" x="2980.5" y="2750" as="geometry" />
         </mxCell>
@@ -5043,8 +5058,13 @@
         <mxCell id="sEOk5rUrlD9LX1nitkul-230" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="管理员角色" vertex="1">
           <mxGeometry height="60" width="120" x="2810" y="2240" as="geometry" />
         </mxCell>
-        <mxCell id="sEOk5rUrlD9LX1nitkul-233" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.859;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="uvnF7k4MoT7sIPI4D6Jf-121">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sEOk5rUrlD9LX1nitkul-233" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="uvnF7k4MoT7sIPI4D6Jf-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2870" y="2180" />
+              <mxPoint x="2870" y="2180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-237" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="管理员管理的机构范围&lt;div&gt;userid-&amp;gt;orgId&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="3218" y="2170" as="geometry" />
