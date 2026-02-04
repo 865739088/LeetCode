@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="x9FN3ZxwxGNLzvOOE6Uz">
-    <mxGraphModel dx="4143" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1657" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5562,6 +5562,9 @@
         </mxCell>
         <mxCell id="acgCKhsbxM681qom-VeY-342" parent="1" style="shape=stencil(lVnLctswDPwaXzEE3zyn7X9kJk7jaRpnnPT194XqUhZX1npyc+KFBQILYEHtwt3b0/3rfufd2/vp+G3/6/Dw/rQLn3beH16e9qfDu33ahc+7cPd4PO2/no4/Xh7Of7/eT8jp0/fjz+kXfp/ttIiWycq7P+f/ZMn+3z++nPHPh5cF3jtxfsBHSZngg1Q34L20tI0PKrEOeBUl+OjFj79vDrptfEoSAuCjbuNz7eG4+P/fwav40qQ4iGci/tQqAc7rpRCHWuznmx1y/UjXDYrkNhpUqY0Y2BHyYBCqFJIDdQ59ik08iVKrmOXUpPFTQxqKk1JIXIvU8QnV8cQVdOmSmuvMMCalwcCcjKQUkpeqo4E9gSQiqvjRYBHp69XjRcdEWDIjMbDqDSM5jC4+klzb1yM5WpBEGoZa/SrGtZEwZQnjEWqQxjqS5DFvxaJK8MYbYJIXR/K84naOvcQ38OB/so5KmKo9fHPtmP+kFIKEMQHR0YaRJI3xCdaxSb8ovTnM7aJJJflShyy1FEZCa2twCZ4Qese5bpBWLU8lsJAaSccnaOOsbqJjUO0nEgmqZTmNxa+5F8Z1A+11OBvM/WPLoIyDWa3zc4MIBtpn75aBH5lnqYwkSnboBrXf47yFzyO+0LRdw9MTG/HHWZ6lcP8rah02EixALgE+3AhoBrxnnWuldTJlqeEz4gPnXEX/Ez9vQ/9Z5Vvrhbo0MXnj96FV8yJTnOHlFqGBD1Ucj2dCvDI+ax8sF/yNfME0rjw+rmughf+MPw6FWpHCfz8XwFP+Gz4BnmnxyR/UvvVGPXrA013CIX/yrRaqDfCeTL6pHhXxvH4z+s8mt1fchfhuMNXLqr99sB4d67cfx3vkZ2Hx8X2cXOZFY/Xlsf/bBIssYR4bnAZe8R4ZZ0OVqdfpCKAkkmRe8w3mPFdDE6lhbBc6ZUyrgHzSKolLdlC89kzP5FOSOIbVwsBWoSnqoOhib8VbmhHEzSQNCLXnE84i1tFRtloiQuq9+PqqJTpWmu1eyniBk8BEe6IiH5agxKWKW3WKyHPcN8+5kpXGJ3QCzPhCW1HGfFUvjfmzEqOXhXyLpDCLm+diMSIlWqZqcdqNwYCP+4kCK4NCDGzBz2BQ+u3U1hUC1I0t02yCWJZwmebNYvp6JGppkomBOQAapDgapfX1UmpdNmxdL8FUjo0e2qIOYz80WszmEu6Lja68dmhseEonf614C6qBSlOLesJRm0lU87rh8SU/9RBerk1ZEqZrUxi14vm17PoalEmd2Ofw5ZqYSmuH0ivxK8fS2+1iNeD4iHh236gFb1kKvYSabhxQKjc2xGclvfCfz3C3kvoMn7vSWvCNnTf3dr5YDdg8y6s2wUVL7uFbrBI3/MfVtfHxgbd0UpkAKf3ObyGtOR8+9JrkNt4+XN7JPB6en8+vdJbf4zsc+9f5/U/4/Bc=);lineShape=1;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="217.19413217009213" width="324.01147835097" x="3405.399727319749" y="3006.698135449611" as="geometry" />
+        </mxCell>
+        <mxCell id="79tMzpXHPV867CCFIcw_-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;子实体&lt;/div&gt;&lt;div&gt;流程模板作为数据权限？业务对象&lt;/div&gt;&lt;div&gt;报表、流程、门户acl模型，没走角色，2.0和角色模型拆开&lt;/div&gt;&lt;div&gt;每个资源类型能不能绑定到实体上，页面-&amp;gt;业务对象-&amp;gt;按钮1-&amp;gt;按钮1的资源&lt;/div&gt;&lt;div&gt;资源平铺-&amp;gt;业务对象树&lt;/div&gt;&lt;div&gt;应用下有业务对象分类&lt;/div&gt;&lt;div&gt;权限项表挂上业务对象id&lt;/div&gt;&lt;div&gt;记录权限项和资源的关系&lt;/div&gt;&lt;div&gt;大表性能问题&lt;/div&gt;&lt;div&gt;缓存可靠&lt;/div&gt;&lt;div&gt;缓存失效因子&lt;/div&gt;&lt;div&gt;鉴权到权限项&lt;/div&gt;&lt;div&gt;接口路径匹配（udc添加）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="163" width="530" x="50" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
