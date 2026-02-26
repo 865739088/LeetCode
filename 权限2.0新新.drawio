@@ -4632,6 +4632,9 @@
         <mxCell id="sEOk5rUrlD9LX1nitkul-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CONTROL控件" vertex="1">
           <mxGeometry height="60" width="120" x="1320" y="2778.75" as="geometry" />
         </mxCell>
+        <mxCell id="qCQDv-BEkslF8RHq4jVG-26" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="acgCKhsbxM681qom-VeY-317">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="INTERFACE接口" vertex="1">
           <mxGeometry height="60" width="120" x="1320" y="2700" as="geometry" />
         </mxCell>
@@ -5402,8 +5405,8 @@
         <mxCell id="acgCKhsbxM681qom-VeY-315" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;现有数据结构兼容2.0&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="380" x="107.06" y="2327.5" as="geometry" />
         </mxCell>
-        <mxCell id="acgCKhsbxM681qom-VeY-317" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="@ResourcePemission代码写死" vertex="1">
-          <mxGeometry height="60" width="180" x="897.1199999999999" y="2568.25" as="geometry" />
+        <mxCell id="acgCKhsbxM681qom-VeY-317" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="接口鉴权沿用1.0的形式&lt;div&gt;@HasRole + @ResourcePermission&lt;/div&gt;&lt;div&gt;udc生成应用代码写死&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="218" x="1542" y="2700" as="geometry" />
         </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-174" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sEOk5rUrlD9LX1nitkul-170">
           <mxGeometry relative="1" as="geometry">
