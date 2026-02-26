@@ -4606,12 +4606,13 @@
         <mxCell id="sEOk5rUrlD9LX1nitkul-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUBPAGE子页面" vertex="1">
           <mxGeometry height="60" width="120" x="458.00000000000006" y="3170" as="geometry" />
         </mxCell>
-        <mxCell id="qCQDv-BEkslF8RHq4jVG-18" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sEOk5rUrlD9LX1nitkul-27">
+        <mxCell id="qCQDv-BEkslF8RHq4jVG-18" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1170" y="3260" />
               <mxPoint x="1170" y="2809" />
             </Array>
+            <mxPoint x="1220" y="2809" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qCQDv-BEkslF8RHq4jVG-19" connectable="0" parent="qCQDv-BEkslF8RHq4jVG-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="作为权限项中的控件存在，根据path反算他所在的page即业务对象" vertex="1">
@@ -4629,10 +4630,10 @@
           <mxGeometry height="30" width="70" x="410.09000000000003" y="3030" as="geometry" />
         </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CONTROL控件" vertex="1">
-          <mxGeometry height="60" width="120" x="1287.5" y="2778.75" as="geometry" />
+          <mxGeometry height="60" width="120" x="1320" y="2778.75" as="geometry" />
         </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="INTERFACE接口" vertex="1">
-          <mxGeometry height="60" width="120" x="1287.5" y="2700" as="geometry" />
+          <mxGeometry height="60" width="120" x="1320" y="2700" as="geometry" />
         </mxCell>
         <mxCell id="sEOk5rUrlD9LX1nitkul-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;权限项&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="1343" y="2653.75" as="geometry" />
@@ -5457,7 +5458,7 @@
           <mxGeometry height="110" width="230.75" x="770" y="2936.25" as="geometry" />
         </mxCell>
         <mxCell id="qCQDv-BEkslF8RHq4jVG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PAGE页面" vertex="1">
-          <mxGeometry height="60" width="120" x="1287.5" y="2862.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="1320" y="2863" as="geometry" />
         </mxCell>
         <mxCell id="qCQDv-BEkslF8RHq4jVG-14" edge="1" parent="1" source="sEOk5rUrlD9LX1nitkul-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.63;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" target="sEOk5rUrlD9LX1nitkul-39">
           <mxGeometry relative="1" as="geometry" />
